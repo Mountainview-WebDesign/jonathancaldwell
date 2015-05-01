@@ -1,4 +1,4 @@
-baseurl: /jonathancaldwell
+baseurl:
 siteurl: http://www.jonathancaldwell.me
 description:
 permalink: /blog/:categories/:title/
