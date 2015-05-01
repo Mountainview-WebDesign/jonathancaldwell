@@ -1,4 +1,7 @@
-@import url("../../assets/resume-style2.css");
+---
+---
+
+@import url("{{site.baseurl}}/assets/resume-style2.css");
 
 
 summary.summary{
