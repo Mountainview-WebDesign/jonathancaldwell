@@ -1,0 +1,42 @@
+@import url("../../assets/resume-style2.css");
+
+
+summary.summary{
+	font-size: 1.5em;
+}
+.resume section header.resumeSectionHeader{
+	position: relative;
+	left: -65px;
+	width: 100%;
+	padding: 10px 50px 0;
+	background: #29ADE4;
+	border: none;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-shadow: 1px 1px 1px #17607e;
+}
+.resumeSectionRibbon{
+	position: relative;
+	left: -50px;
+	top: 10px;
+	background: url(images/ribbon-corner.png) no-repeat left top;
+	width: 15px;
+	height: 11px;
+}
+
+.resume .title {float: left; font-size: 16px; text-transform: uppercase;  }
+.resume .title a, .resume .orgName a:visited {color: #000;}
+
+.resume .orgName{
+	font-style: italic;
+	float:left;
+	clear:left; 
+	font-size: 15px;
+	text-transform: none;
+	margin-bottom: 10px;
+}
+
+.resumeDivider{
+	height: 10px;
+	border-bottom: #999999 3px dashed;
+}

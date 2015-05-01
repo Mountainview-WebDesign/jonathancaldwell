@@ -1,0 +1,5 @@
+baseurl:
+siteurl: http://www.jonathancaldwell.com
+description:
+permalink: /blog/:categories/:title/
+google_analytics_code: UA-40522703-1
